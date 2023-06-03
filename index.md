@@ -9,3 +9,7 @@
 print('¡Hola Mundo!')
 ```
 
+## Esta es una lista de tareas
+- [x] Introduction to Github 
+- [ ] Communicate using Markdown
+- [ ] GitHub Pages
